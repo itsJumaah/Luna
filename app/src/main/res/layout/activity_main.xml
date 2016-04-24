@@ -12,7 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Sky Map"
+        android:text="Select a target"
         android:id="@+id/skyMap"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
@@ -34,7 +34,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Gallery"
+        android:text="Information"
         android:id="@+id/gallery"
         android:layout_below="@+id/hologram"
         android:layout_alignRight="@+id/hologram"
